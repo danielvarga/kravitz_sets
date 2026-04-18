@@ -1,0 +1,14 @@
+name = "kravitz"
+version = "0.1.0"
+defaultTargets = ["kravitz"]
+
+[[lean_lib]]
+name = "Kravitz"
+
+[[lean_exe]]
+name = "kravitz"
+root = "Main"
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"

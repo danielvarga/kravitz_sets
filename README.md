@@ -7,14 +7,4 @@ Paper: <https://arxiv.org/abs/2510.16522>
 
 ### Theorem 1
 
-If \(p > 3\) is a prime and \(A \subseteq \mathbb{F}_p\) is a subset with
-
-\[
-|A| > \frac{2}{7}p,
-\]
-
-then
-
-\[
-A + A - 2A = \mathbb{F}_p.
-\]
+If $p > 3$ is a prime and $A \subseteq \mathbb{F}_p$ is a subset with $|A| > \frac{2}{7}p$, then $A + A - 2A = \mathbb{F}_p$.
